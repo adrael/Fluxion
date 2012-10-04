@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/addApp.png</file>
+        <file>icons/backward.png</file>
+        <file>icons/BegInfo.png</file>
+        <file>icons/deleteApp.png</file>
+        <file>icons/editApp.png</file>
+        <file>icons/emptyCursor.png</file>
+        <file>icons/forward.png</file>
+        <file>icons/iManager.png</file>
+        <file>icons/logo.ico</file>
+        <file>icons/logo.png</file>
+        <file>icons/next.png</file>
+        <file>icons/pageLeft.png</file>
+        <file>icons/pageRight.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/plentyCursor.png</file>
+        <file>icons/preferences.png</file>
+        <file>icons/previous.png</file>
+        <file>icons/repeat.png</file>
+        <file>icons/shuffle.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/Switch.png</file>
+        <file>icons/validApp.png</file>
+        <file>icons/xTrem.png</file>
+        <file>icons/FlyWeb.png</file>
+        <file>icons/SensorText.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/about.png</file>
+        <file>icons/default.png</file>
+        <file>icons/help.png</file>
+        <file>icons/clear.png</file>
+    </qresource>
+</RCC>
